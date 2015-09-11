@@ -18,4 +18,4 @@ function_name(height='7\'10',name='pyscho',weight='50')
 function_name('john','5\'9',66)
 
 # function_name(name='David','5\'9',66)
-# This is invalid because of non-keyword argument after keyword argument
+# This is invalid because of non-keyword argument after keyword only argument
