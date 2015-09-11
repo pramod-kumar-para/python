@@ -5,6 +5,8 @@ for a function call into separate positional arguments, write the
 function call with * operator to unpack the list or tuple
 
 dictionaries can deliver keyword arguments with ** operator
+*args is called argument unpacking
+**args is called keyword argument unpacking
 """
 
 def player_info(name,game,league,country):
