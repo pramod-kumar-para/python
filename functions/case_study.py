@@ -21,8 +21,6 @@ def add_elements1(a,l=None):
         l=[]
     l.append(a)
     return l
-
-
 print(add_elements1(1))
 print(add_elements1(2))
 
