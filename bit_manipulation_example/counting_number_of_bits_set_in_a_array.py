@@ -9,4 +9,5 @@ def count_bits(n):
             # performing a right shift by 1 bit
             i>>=1
     return count
+
 print(count_bits(list_of_numbers))
