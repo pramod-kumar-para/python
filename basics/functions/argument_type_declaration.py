@@ -1,4 +1,3 @@
-__author__ = 'Pramodh'
 
 def function_name(name:str,age:int,weight:float):
     print(name)

@@ -1,4 +1,3 @@
-__author__ = 'Pramodh'
 
 # The keyword def introduces a function definition
 # function without return values

@@ -1,4 +1,3 @@
-__author__ = 'Pramodh'
 
 
 l=[1,10,3]

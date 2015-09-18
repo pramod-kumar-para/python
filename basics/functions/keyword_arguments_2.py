@@ -1,4 +1,3 @@
-__author__ = 'Pramodh'
 """
  When a final formal parameter of the name **args is present
  it receives a dictionary of keyword arguments

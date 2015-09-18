@@ -1,4 +1,3 @@
-__author__ = 'Pramodh'
 
 """ Python supports the creation of anonymous functions at runtime using
  a construct called lambda

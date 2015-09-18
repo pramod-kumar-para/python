@@ -10,3 +10,4 @@ print(l)
 # deleting items by slicing
 del l[3:]
 print(l)
+

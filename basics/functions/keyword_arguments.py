@@ -1,4 +1,3 @@
-__author__ = 'Pramodh'
 
 # functions can also be called keyword arguments
 # Such arguments are of the form keyword_arg=value

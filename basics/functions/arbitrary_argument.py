@@ -1,4 +1,3 @@
-__author__ = 'Pramodh'
 
 """ A function can also be called with arbitrary number of arguments
  These arguments will be wrapped inside a tuple

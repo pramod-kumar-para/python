@@ -1,4 +1,3 @@
-__author__ = 'Pramodh'
 
 # By providing default arguments
 # we can provide only mandatory values during function calls

@@ -1,4 +1,3 @@
-__author__ = 'Pramodh'
 
 """ When the arguments are already in the list but needs to be unpacked
 for a function call into separate positional arguments, write the

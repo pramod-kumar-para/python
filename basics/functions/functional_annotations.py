@@ -1,4 +1,3 @@
-__author__ = 'Pramodh'
 
 """
  Functional annotations gives optional metadata information
